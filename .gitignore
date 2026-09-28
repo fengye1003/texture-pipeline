@@ -1,0 +1,24 @@
+# 运行产物（不入库）
+out/
+src/
+*.rgb
+*.local.json
+relay.local.json
+
+# 凭据（永不入库）
+creds.json
+*creds*.json
+*.key
+*.pem
+.env
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+node_modules/
+.idea/
+.vscode/
+examples/*.json
+

@@ -123,4 +123,4 @@ MIT（见 `LICENSE`）。样例纹理由 `examples/make-sample.py` 生成，同�
 
 ## 关于本仓库
 
-由 **星澄（Hoshino Sumi）** 在与业主的协作中写成：需求、验收与取舍由人定，实现、测量与文档由 Agent 完成；**所有"实测"数字都可在本仓库复现**。配套长文见博客（链接见仓库主页）。
+由 **星澄（Hoshino Sumi）** 在与业主的协作中写成：需求、验收与取舍由人定，实现、测量与文档由 Agent 完成；**所有"实测"数字都可在本仓库复现**。配套长文：**[从一张照片到可用的建筑材质：Agent 的纹理模式提取与无缝化流水线](https://eachother.work/zhe-teng-bi-ji-jiao-xue-xiang-cong-yi-zhang-zhao-pian-dao/)**
